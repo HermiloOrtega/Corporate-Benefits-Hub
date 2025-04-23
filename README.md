@@ -78,7 +78,10 @@ An innovative component of the project is the **Dynamic Book Agenda**, which use
 Internal project — updates and feedback are handled by the internal dev team. Contact the project lead for requests.
 
 ## 🪪 License
-Internal use only. Not licensed for external distribution.
+⚠️ License Notice  
+This repository was originally published under the MIT License.  
+As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
+See the LICENSE file for details.
 
 ## 🔗 Additional Resources
 - **Documentation:** Available through the internal IT portal.
