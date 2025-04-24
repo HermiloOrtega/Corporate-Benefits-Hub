@@ -5,6 +5,12 @@
 
 What began as a front-end assignment during my first internship evolved into a full-cycle project under my ownership—bridging UX design, custom page development, Flash-based prototyping, and stakeholder alignment with executive leadership.
 
+### Home page
+![Screenshot](./assets/4.png)
+
+### Book version
+![Screenshot](./assets/8.png)
+
 ## 💡 Idea & Concept  
 The project was envisioned to:
 - Provide a modernized, employee-friendly benefits portal beyond simple static pages.
