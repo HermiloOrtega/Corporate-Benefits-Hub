@@ -1,88 +1,82 @@
 # 📦 Corporate Benefits Hub
 
-## 🧭 Overview
-**Corporate Benefits Hub** is an internal website designed exclusively for company employees. It serves as a portal where employees can access exclusive promotions, discounts, and benefits offered by various businesses within the company network. The website is hosted on the company's intranet, ensuring secure and seamless access.
+## 🧭 Overview  
+**Corporate Benefits Hub** is a secure, intranet-based web application designed to centralize and showcase exclusive employee benefits, discounts, and corporate partnerships. Deployed on internal Windows Servers, this system provides an interactive and visual experience for employees to explore perks by category, vendor, and promotional format.
 
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+What began as a front-end assignment during my first internship evolved into a full-cycle project under my ownership—bridging UX design, custom page development, Flash-based prototyping, and stakeholder alignment with executive leadership.
 
-## 💡 Idea & Concept
-The concept behind Corporate Benefits Hub was to create a centralized platform that:
+## 💡 Idea & Concept  
+The project was envisioned to:
+- Provide a modernized, employee-friendly benefits portal beyond simple static pages.
+- Replace flat links and PDF listings with an engaging, navigable experience.
+- Offer **interactive promotion discovery**—tailored to company partnerships and vendor categories.
 
-- Allows employees to browse different categories of businesses offering exclusive promotions.
-- Provides detailed pages for each business showcasing the available promotions.
-- Features an engaging homepage with a slider displaying designs and promotions from these businesses.
+A standout innovation was the **Dynamic Book Agenda**, which replaced traditional link-heavy navigation with an intuitive, book-like UI built using Adobe Flash—creating a highly immersive experience.
 
-An innovative component of the project is the **Dynamic Book Agenda**, which uses Adobe Flash to simulate a realistic book experience with page-flipping effects.
+## ✨ Features & Functionality  
+- **Business Directory by Category**  
+- **Vendor Detail Pages** with rich media content (flyers, videos, GIFs)  
+- **Homepage Carousel Slider** featuring top promotions  
+- **Dynamic Book Agenda** with:
+  - Page-flip animation
+  - Alphabetized index navigation
+  - Grid view, two-page mode
+  - Zoom controls
+  - Export single-page option  
+- **Interactive Media Modals** to display PDFs, videos, and dynamic content without leaving the main screen  
+- **Employee-Centric UI** with large buttons, visual categories, and responsive interactions
 
-## ✨ Features & Functionality
-- **Main Menu:** Quick access to business categories.
-- **Business Listings:** Organized by category with detailed promotional content.
-- **Homepage Slider:** Dynamic visuals of current business promotions.
-- **Dynamic Book Agenda:** Interactive book-style viewer for promotional flyers.
-- **Customization:** Tailored enhancements to improve employee experience.
+## ⚙️ Tech Stack  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Dynamic Components**: Adobe Flash (customized project base)  
+- **Backend/Hosting**: Static hosting on internal Windows Server (IIS)  
+- **Design Tools**: Adobe Photoshop for all visual assets  
 
-## ⚙️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend/Hosting:** Windows Server (internal deployment)
-- **Design Tools:** Adobe Photoshop
-- **Dynamic Component:** Adobe Flash (legacy)
+## 🏗 Architecture & Design  
+- Modular architecture with easily extendable business categories  
+- Flash-based book viewer decoupled from core navigation for performance and isolation  
+- Asset loader and modal system to support PDFs, videos, and image content  
+- Internal-only deployment via company intranet for secure access
 
-## 🏗 Architecture & Design
-- Modular structure to support maintainability.
-- Homepage slider to promote featured content.
-- Flash-based component mimics a physical book for flyer browsing.
-- Hosted internally with restricted access for security.
+## 🚀 Installation & Setup  
+- **Environment**: On-prem Windows Servers, Flash-enabled environment  
+- **Access**: Restricted to company network  
+- **Deployment**: Managed by the internal IT department with developer-authored configs  
 
-## 🚀 Installation & Setup
-- **Prerequisites:**  
-  - Internal web server with support for HTML, CSS, JS  
-  - Adobe Flash enabled (for legacy agenda feature)
+> **Note**: Flash-based features are legacy and marked for replacement in future modernization efforts.
 
-- **Installation Steps:**  
-  - Managed and deployed by internal IT team  
-  - Content and structure configured to align with company infrastructure
+## 🧑‍💻 My Role & Contributions  
+This project was my **first hands-on software development experience**, where I:
+- 🚀 Evolved from minor UI tweaks to full project ownership  
+- 🎨 Designed all visuals: category buttons, vendor tiles, modal layouts  
+- 🧩 Built custom HTML modals to handle PDFs, videos, and GIFs within the UI  
+- 🔄 Reverse-engineered and customized an Adobe Flash template to deliver the book experience  
+- 🔧 Developed custom JS/CSS logic for interactive navigation and content loading  
+- 🤝 Acted as the bridge between design, development, and department leadership  
+- 🧠 Learned directly under a senior software engineer until I was entrusted with full ownership  
 
-- **Deployment Environment:**  
-  - On-premises Windows Servers
+## 🧗 Challenges & Learnings  
+- 🌐 Learned front-end development from scratch (HTML, CSS, JavaScript)  
+- 📚 Self-taught Adobe Flash to deliver an executive-requested feature  
+- 🎯 Designed with usability in mind, optimizing layout for non-technical users  
+- 🧠 Absorbed critical software engineering foundations through mentorship  
+- 🔄 Balanced creative design and business constraints under real production deadlines  
 
-- **Access:**  
-  - Accessible only through the company intranet
+## 📈 Future Enhancements  
+- Replace Flash with HTML5 or WebGL viewer  
+- Make fully responsive for mobile use  
+- Expand vendor integration and media types  
+- Add login-level personalization (e.g., saving favorites)
 
-> **Note:** Installation is handled by IT and tailored to internal systems.
+## 🤝 Contributing  
+This project is used internally. Enhancements and support are managed by the in-house IT & development team.
 
-## 🧑‍💻 Usage
-1. Visit the homepage through the intranet.
-2. Navigate business categories using the main menu.
-3. View detailed promotions per business listing.
-4. Interact with the homepage slider for featured content.
-5. Launch the Dynamic Book Agenda for a page-turning flyer experience.
+## 🪪 License  
+⚠️ **License Update**  
+Originally published under MIT. As of April 22, 2025, this project follows the **CC BY-NC-ND 4.0** license.  
+Refer to the LICENSE file for more information.
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development of business pages
-- 🧱 Assisted in architecture and design decisions
-- 🐞 Created flyer designs and thumbnails using Adobe Photoshop
-- 🤝 Collaborated with senior devs during internship for mentorship and guidance
-
-## 🧗 Challenges & Learnings
-- Developed technical skills in HTML/CSS/JS and Windows Server hosting.
-- Learned to blend design with development through Photoshop integration.
-- Improved communication with business partners to gather promotion details.
-- Gained mentorship experience during my first internship, setting a foundation for future roles.
-
-## 📈 Future Enhancements
-- Replace Adobe Flash with modern web tech (e.g., HTML5, WebGL).
-- Improve mobile responsiveness.
-- Add new features based on employee and business partner feedback.
-
-## 🤝 Contributing
-Internal project — updates and feedback are handled by the internal dev team. Contact the project lead for requests.
-
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
-
-## 🔗 Additional Resources
-- **Documentation:** Available through the internal IT portal.
-- **Related Projects:** Other intranet tools and web-based initiatives.
+## 🔗 Additional Resources  
+- **Internal Docs:** Available via corporate IT portal  
+- **Related Tools:** Intranet Home, HR Services Portal  
+- **Live Access:** Intranet only
