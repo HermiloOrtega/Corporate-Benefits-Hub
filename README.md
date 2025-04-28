@@ -1,4 +1,4 @@
-# 📦 Corporate Benefits Hub (Internal Portal) V1-APRIL-28
+# 📦 Corporate Benefits Hub
 
 ## 🧭 Overview
 **Corporate Benefits Hub** (formerly known as Agenda Comercial) is an internal web application designed to offer employees exclusive access to promotions, discounts, and benefits from various businesses associated with the company.
