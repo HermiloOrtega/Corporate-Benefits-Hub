@@ -24,12 +24,13 @@ An innovative component of the project is the **Dynamic Book Agenda**. This feat
 - **Dynamic Book Agenda:** An interactive, realistic book-like experience that displays promotional flyers with page-flipping effects.
 - **Customization:** Small, user-focused customizations were implemented to enhance the overall experience.
 
-## Technical Details
-### Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend/Hosting:** Deployed on internal Windows Servers
-- **Design Tools:** Adobe Photoshop (used for creating business thumbnails and promotional flyers)
-- **Dynamic Component:** Adobe Flash (for the interactive book agenda)
+## ⚙️ Tech Stack
+| Category                | Tools & Frameworks |
+|-------------------------|--------------------|
+| **Frontend**            | ![WinForms](https://img.shields.io/badge/WinForms-512BD4?logo=.net&logoColor=white&style=for-the-badge) |
+| **Platform / Hosting** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?logo=windows&logoColor=white&style=for-the-badge) |
+| **Design & UI Tools** | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge) |
+| **Other** | ![Adobe Flash](https://img.shields.io/badge/Adobe%20Flash-E44D26?logo=adobe&logoColor=white&style=for-the-badge) |
 
 ### Architecture & Design
 - The website follows a modular design approach to ensure maintainability and scalability.
