@@ -27,7 +27,7 @@ An innovative component of the project is the **Dynamic Book Agenda**. This feat
 ## ⚙️ Tech Stack
 | Category                | Tools & Frameworks |
 |-------------------------|--------------------|
-| **Frontend**            | ![WinForms](https://img.shields.io/badge/WinForms-512BD4?logo=.net&logoColor=white&style=for-the-badge) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) |
 | **Platform / Hosting** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?logo=windows&logoColor=white&style=for-the-badge) |
 | **Design & UI Tools** | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge) |
 | **Other** | ![Adobe Flash](https://img.shields.io/badge/Adobe%20Flash-E44D26?logo=adobe&logoColor=white&style=for-the-badge) |
